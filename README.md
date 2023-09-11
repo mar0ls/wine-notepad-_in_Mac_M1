@@ -13,7 +13,7 @@
 # **3. [OPTIONAL] execute the command in the terminal and you can check the version of the program or change the default operating system version.**
     wine winecfg
    
-# **5. Donwnload Notepad++**
+# **5. Download Notepad++**
 [Link to notepad 8.5.6](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.6/npp.8.5.6.Installer.x64.exe)
 
 # **6. Double-click the setup file and then allow Wine to access the folder.**
