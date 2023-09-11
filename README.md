@@ -22,5 +22,4 @@
    
 # **8. That's all. If you want to run the Windows program again on your PC later, open the terminal and execute the  command.**
     wine start notepad++.exe or wine64 notepad++.exe
-# wine-notepad-_in_Mac_M1
-How install wine and notepad++ in Mac M1
+
